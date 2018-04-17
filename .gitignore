@@ -27,7 +27,7 @@ Desktop.ini
 ######################
 # OSX
 ######################
-.idea
+*.idea
 .DS_Store
 .svn
  
