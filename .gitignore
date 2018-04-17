@@ -28,7 +28,10 @@ Desktop.ini
 ######################
 # OSX
 ######################
- 
+.iws
+workspace.xml
+.idea
+
 .DS_Store
 .svn
  
