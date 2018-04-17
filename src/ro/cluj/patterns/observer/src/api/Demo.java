@@ -11,10 +11,10 @@ public class Demo {
         
         Observer observer1 = new ConcreteObserver(subject);
         Observer observer2 = new ConcreteObserver(subject);
-        
+
         subject.addO(observer1);
         subject.addO(observer2);
-        
+
         subject.setState("Some random state");
         
         subject.removeO(observer1);
