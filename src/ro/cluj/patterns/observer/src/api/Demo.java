@@ -15,9 +15,11 @@ public class Demo {
         subject.addO(observer1);
         subject.addO(observer2);
         
-        subject.setState("sasd");
+        subject.setState("Some random state");
         
         subject.removeO(observer1);
+
+        subject.setState("Hello World state!");
         
         
     }

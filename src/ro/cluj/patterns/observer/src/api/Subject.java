@@ -50,7 +50,7 @@ public class Subject implements ISubject {
     @Override
     public void notifyObservers() {
         for(Observer obs : observers){
-        	
+            obs.update();
         }
     }
 }
