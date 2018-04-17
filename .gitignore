@@ -2,7 +2,9 @@
 /build/
 /bin/
 target/
- 
+.idea/
+src/ro/cluj/patterns/observer/.idea
+
 # OS Files #
 .DS_Store
  
