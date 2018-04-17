@@ -1,4 +1,4 @@
-package ro.cluj.pattern.template;
+package ro.cluj.patterns.template;
 
 public class UrlaubskarteAnFirma extends Urlaubskarte {
 
