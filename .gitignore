@@ -3,7 +3,6 @@
 /bin/
 target/
 .idea/
- 
 # OS Files #
 .DS_Store
  
@@ -14,6 +13,7 @@ target/
 *.war
 *.ear
 *.db
+*.xml
  
 ######################
 # Windows
