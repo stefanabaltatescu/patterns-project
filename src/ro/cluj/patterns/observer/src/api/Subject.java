@@ -34,6 +34,7 @@ public class Subject implements ISubject {
 
     public void setState(String state) {
         this.state = state;
+        notifyObservers();
     }
 
     @Override
@@ -49,7 +50,7 @@ public class Subject implements ISubject {
     @Override
     public void notifyObservers() {
         for(Observer obs : observers){
-
+        	
         }
     }
 }

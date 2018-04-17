@@ -1,7 +1,24 @@
 package api;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Demo {
     public static void main(String[] args){
-        System.out.println("Hello world!");
+        List<Observer> observers = new ArrayList<>();
+        
+        ISubject subject = new Subject(observers);
+        
+        Observer observer1 = new ConcreteObserver(subject);
+        Observer observer2 = new ConcreteObserver(subject);
+        
+        subject.addO(observer1);
+        subject.addO(observer2);
+        
+        subject.setState("sasd");
+        
+        subject.removeO(observer1);
+        
+        
     }
 }
