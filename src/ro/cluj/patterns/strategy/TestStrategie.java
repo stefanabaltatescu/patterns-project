@@ -1,3 +1,4 @@
+//Main Class
 package ro.cluj.patterns.strategy;
 
 public class TestStrategie {
