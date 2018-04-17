@@ -1,6 +1,5 @@
 Group1: Adapter                 Responsible: csillabeg
 Group2: Factory (abstract)      Responsible: IceBlast13 
-Group3: Decorator               Responsible: mariacotos7
 Group4: Proxy                   Responsible: MariaPopaP
 Group5: Composite               Responsible: tiboth
 Group6: Observer                Responsible: Tuddy18 
@@ -8,4 +7,4 @@ Group7: State                   Responsible: stefanabaltatescu
 Group8: Role                    Responsible: aliinpop 
 Group9: Template                Responsible: rusualex
 Group10: Strategy               Responsible: Hanoxx
-Group11: Command                Responsible: RaulFjk
+Group11: Command                Responsible: mariacotos7
