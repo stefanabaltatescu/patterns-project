@@ -15,6 +15,7 @@ src/ro/cluj/patterns/observer/.idea
 *.war
 *.ear
 *.db
+*.xml
  
 ######################
 # Windows
